@@ -1,1 +1,1 @@
-shell basic
+l -al

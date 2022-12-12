@@ -1,0 +1,2 @@
+#!/bin/bash
+fond . -type d ! -path . | wc -l
